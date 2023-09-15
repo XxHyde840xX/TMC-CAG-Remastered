@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>TMC Equipment - Combat Assist Goggles</name>
+  <author>Tittymcswaggy</author>
+  <supportedVersions><li>1.1</li><li>1.2</li></supportedVersions>
+  	<packageId>TMC.AAM</packageId>
+
+  <url></url>
+  <description>
+
+       Add 3 CAGs into the game , provide accuracy buff.
+
+  </description>
+</ModMetaData>
