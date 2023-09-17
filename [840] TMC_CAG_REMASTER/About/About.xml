@@ -33,7 +33,6 @@ CHANGELOG:
 - Added AimingDelayFactor and PawnTrapSpringChance offsets to CAG's.
 - Adjusted ShootingAccuracyPawn values all around and tweaked HP for GEN 3 CAG's.
 - Doubled mass of GEN 1 CAG's. Adjusted mass of Gen 2 CAG's.
-- Can't do proper night-vision without more learning, sorry folks!
 - Added SoundOnEquip .dll from Dolfin Power Armor mod.
 - Added iconic sound-effect to CAG's on equip. Try it out!
 - Removed supported version tags for 1.1/1.2/1.3 - I don't maintain on older versions.
