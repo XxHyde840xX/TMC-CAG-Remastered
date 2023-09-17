@@ -12,12 +12,16 @@
 STEAM ID: 2243681587
 
 ORIGINAL MOD: https://steamcommunity.com/sharedfiles/filedetails/?id=2243681587.
+
+ALL CREDIT TO TITTYMCSWAGGY FOR THE ORIGINAL ART AND XML.
+
+ALL CREDIT TO THE DOLFIN POWER ARMOR TEAM FOR THE SOUND ON EQUIP DLL.
   
 -----------
 CHANGELOG:
 -----------
 
-2023/09/14
+2023/09/17
   
 - Changed texture filepath and location for sake of organization.
 - Removed old/unused textures.
@@ -26,12 +30,15 @@ CHANGELOG:
 - Red and Yellow lensed variants added for GEN 2.
 - Green and Red lensed variants added for GEN 3.
 - Rewrote defs, labels, and descriptions.
-- Added offsets for AimingDelayFactor and PawnTrapSpringChance to CAG's.
+- Added AimingDelayFactor and PawnTrapSpringChance offsets to CAG's.
 - Adjusted ShootingAccuracyPawn values all around and tweaked HP for GEN 3 CAG's.
-- Doubled mass of GEN 1 CAG's. Adjusted mass of Gen 2 CAG's
+- Doubled mass of GEN 1 CAG's. Adjusted mass of Gen 2 CAG's.
 - Can't do proper night-vision without more learning, sorry folks!
-- Sound were a failure. I need a new assembly to make it work. :(
+- Added SoundOnEquip .dll from Dolfin Power Armor mod.
+- Added iconic sound-effect to CAG's on equip. Try it out!
 - Removed supported version tags for 1.1/1.2/1.3 - I don't maintain on older versions.
+- Can't do proper night-vision without more learning, sorry folks! I'll keep at it!
+- Massive thanks to Zaljerem for finding the error I couldn't.
 
 ===============
 | XxHyde840xX |

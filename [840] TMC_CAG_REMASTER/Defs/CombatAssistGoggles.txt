@@ -233,7 +233,7 @@
 	<ThingDef ParentName="HatMakeableBase">
 		<defName>TMC_CAGGenTwoRed</defName>
 		<label>CAG Gen2Red</label>
-		<description>The second generation of Combat Assist Goggles. This model comes with upgraded processing power in the chipset and a more advanced UI, allowing for better tactical analysis of the users target over the first generation. This UI includes infomation about the targets movement speed, their current affiliation based on data collected from across the Rim, and also a detaled breakdown of the targets current cover if applicable, including material-type and chance of penetration. More expensive to produce, but lighter and more durable than the previous generation.</description>>
+		<description>The second generation of Combat Assist Goggles. This model comes with upgraded processing power in the chipset and a more advanced UI, allowing for better tactical analysis of the users target over the first generation. This UI includes infomation about the targets movement speed, their current affiliation based on data collected from across the Rim, and also a detaled breakdown of the targets current cover if applicable, including material-type and chance of penetration. More expensive to produce, but lighter and more durable than the previous generation.</description>
 		<graphicData>
 			<texPath>Model2/Model2R</texPath>
 			<graphicClass>Graphic_Single</graphicClass>

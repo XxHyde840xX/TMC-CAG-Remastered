@@ -1,0 +1,5 @@
+c:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Dolphin Power Armour\1.3\Assemblies\SoundOnEquip.dll
+c:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Dolphin Power Armour\1.3\Source\SoundOnEquip\obj\Debug\SoundOnEquip.csproj.AssemblyReference.cache
+c:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Dolphin Power Armour\1.3\Source\SoundOnEquip\obj\Debug\SoundOnEquip.csproj.CoreCompileInputs.cache
+c:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Dolphin Power Armour\1.3\Source\SoundOnEquip\obj\Debug\SoundOnEquip.csproj.CopyComplete
+c:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Dolphin Power Armour\1.3\Source\SoundOnEquip\obj\Debug\SoundOnEquip.dll

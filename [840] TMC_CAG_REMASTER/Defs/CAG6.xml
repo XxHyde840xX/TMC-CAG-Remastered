@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-
 <ThingDef ParentName="HatMakeableBase">
-	<defName>TMC_CAGGenTwoRed</defName>
-		<label>CAG Gen2Red</label>
+<defName>TMC_CAGGenTwoYellow</defName>
+<label>CAG Gen2Yellow</label>
 		<description>The second generation of Combat Assist Goggles. This model comes with upgraded processing power in the chipset and a more advanced UI, allowing for better tactical analysis of the users target over the first generation. This UI includes infomation about the targets movement speed, their current affiliation based on data collected from across the Rim, and also a detaled breakdown of the targets current cover if applicable, including material-type and chance of penetration. More expensive to produce, but lighter and more durable than the previous generation.</description>
 		<graphicData>
-			<texPath>Model2/Model2R</texPath>
+			<texPath>Model2/Model2Y</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<techLevel>Industrial</techLevel>
@@ -39,7 +38,7 @@
 			<bodyPartGroups>
 				<li>Eyes</li>
 			</bodyPartGroups>
-			<wornGraphicPath>Model2/Model2R</wornGraphicPath>
+			<wornGraphicPath>Model2/Model2Y</wornGraphicPath>
 			<layers>
 				<li>Overhead</li>
 			</layers>
@@ -61,6 +60,5 @@
 				<equipSound>SplinterCell_NVG</equipSound>
 			</li>
 		</modExtensions>
-	</ThingDef>
-
+</ThingDef>
 </Defs>

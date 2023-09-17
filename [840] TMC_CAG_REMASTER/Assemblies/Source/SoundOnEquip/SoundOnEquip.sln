@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundOnEquip", "SoundOnEquip.csproj", "{51F2BB88-C02E-4CCE-99DC-43E5D53D79FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51F2BB88-C02E-4CCE-99DC-43E5D53D79FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F2BB88-C02E-4CCE-99DC-43E5D53D79FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F2BB88-C02E-4CCE-99DC-43E5D53D79FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F2BB88-C02E-4CCE-99DC-43E5D53D79FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C47324B8-A4A3-41E3-90B5-2ECF13DB00F3}
+	EndGlobalSection
+EndGlobal

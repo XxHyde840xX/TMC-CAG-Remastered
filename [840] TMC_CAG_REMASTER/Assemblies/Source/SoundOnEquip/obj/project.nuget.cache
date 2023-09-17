@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VGkrMvm50Y3DsITC6QRQ23Zv3Fg7wcZpqeFdBT9cyOkel6frfELLhT/YLtL/B2GkiMGrGOTrT2VFYtLgSfK04g==",
+  "success": true,
+  "projectFilePath": "c:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Dolphin Power Armour\\1.3\\Source\\SoundOnEquip\\SoundOnEquip.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vova\\.nuget\\packages\\krafs.rimworld.ref\\1.3.3108-beta\\krafs.rimworld.ref.1.3.3108-beta.nupkg.sha512",
+    "C:\\Users\\Vova\\.nuget\\packages\\lib.harmony\\2.1.1\\lib.harmony.2.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

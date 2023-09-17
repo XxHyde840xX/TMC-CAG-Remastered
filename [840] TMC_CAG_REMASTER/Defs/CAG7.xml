@@ -56,5 +56,10 @@
 				<li>TableMachining</li>
 			</recipeUsers>
 		</recipeMaker>
+		<modExtensions>
+			<li Class="SoundOnEquip.SoundExtension">
+				<equipSound>SplinterCell_NVG</equipSound>
+			</li>
+		</modExtensions>
 	</ThingDef>
 </Defs>
