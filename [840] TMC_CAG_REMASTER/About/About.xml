@@ -50,5 +50,7 @@ CHANGELOG:
         <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
       </li>
 	</modDependencies>
-  <loadAfter>brrainz.harmony</loadAfter>
+    <loadAfter>
+      <li>brrainz.harmony</li>
+    </loadAfter>
 </ModMetaData>
