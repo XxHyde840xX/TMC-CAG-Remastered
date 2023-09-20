@@ -13,13 +13,16 @@ STEAM ID: 2243681587
 
 ORIGINAL MOD: https://steamcommunity.com/sharedfiles/filedetails/?id=2243681587.
 
-ALL CREDIT TO TITTYMCSWAGGY FOR THE ORIGINAL ART AND XML.
+ALL CREDIT TO TITTYMCSWAGGY FOR THE ORIGINAL ART AND XML, AND TO SHAKESTHESPAERE FOR THE GLOW EFFECTS.
 
-ALL CREDIT TO THE DOLFIN POWER ARMOR TEAM FOR THE SOUND ON EQUIP DLL.
-  
------------
+ALL CREDIT TO THE DOLFIN POWER ARMOR MOD TEAM FOR THE SOUND-ON-EQUIP DLL.
+You can find that mod here: https://steamcommunity.com/sharedfiles/filedetails/?id=2595545774.
+
+If the author wishes at any time to continue the project, or for me to remove it from the workshop, I will comply with their request.
+
+--------------
 CHANGELOG:
------------
+--------------
 
 2023/09/17
   
@@ -39,9 +42,9 @@ CHANGELOG:
 - Can't do proper night-vision without more learning, sorry folks! I'll keep at it!
 - Massive thanks to Zaljerem for finding the error I couldn't.
 
-===============
-| XxHyde840xX |
-===============</description>
+=============
+|XxHyde840xX|
+=============</description>
 	<modDependencies>
       <li>
         <packageId>brrainz.harmony</packageId>
