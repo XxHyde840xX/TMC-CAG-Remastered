@@ -41,7 +41,7 @@
 			</bodyPartGroups>
 			<wornGraphicPath>Model2/Model2B</wornGraphicPath>
 			<layers>
-				<li>Overhead</li>
+				<li>EyeCover</li>
 			</layers>
 			<defaultOutfitTags>
 				<li>Soldier</li>

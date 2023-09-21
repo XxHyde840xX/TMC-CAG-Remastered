@@ -42,7 +42,7 @@
 			</bodyPartGroups>
 			<wornGraphicPath>Model3/Model3R</wornGraphicPath>
 			<layers>
-				<li>Overhead</li>
+				<li>EyeCover</li>
 			</layers>
 			<defaultOutfitTags>
 				<li>Soldier</li>
